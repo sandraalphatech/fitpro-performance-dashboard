@@ -1,5 +1,5 @@
-# fitpro-performance-dashboard
-Dashboard interativo de performance fitness desenvolvido com HTML, CSS e JavaScript.
+# FitPro Performance Dashboard
+Dashboard interativo de performance fitness desenvolvido com HTML, CSS e JavaScript, reunindo métricas, gráficos e ferramentas de acompanhamento em uma única interface.
 
 ## Funcionalidades
 - Dashboard com indicadores de performance
@@ -8,6 +8,7 @@ Dashboard interativo de performance fitness desenvolvido com HTML, CSS e JavaScr
 - Conversor de calorias
 - Contador de água
 - Gerador de passwords
+- Seleção de Diversos tipos de treinos
 - Dados e histórico de treino
 - Navegação dinâmica entre seções
 - Sistema de autenticação
@@ -18,10 +19,23 @@ Dashboard interativo de performance fitness desenvolvido com HTML, CSS e JavaScr
 - CSS3
 - JavaScript
 - Chart.js
-- DOM Manipulation
+- DOM
 
-## Objetivo
-O projeto foi desenvolvido para praticar a criação de aplicações web interativas, manipulação do DOM, eventos, cálculos, arrays e objetos, gerenciamento de estado da aplicação e visualização de dados.
+## Principais conceitos aplicados
+- DOM
+- Eventos e interações
+- Arrays e objetos
+- Cálculos e lógica de programação
+- Gerenciamento de estado da aplicação
+- Visualização de dados com gráficos
+- Navegação dinâmica entre seções
+- Validação e autenticação
 
-## Tipo de projeto
-Projeto acadêmico desenvolvido durante a formação em programação.
+## Estrutura do projeto
+
+```text
+FitPro/
+├── css/
+├── icons/
+├── js/
+└── fitness.html
