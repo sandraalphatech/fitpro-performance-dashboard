@@ -1,7 +1,7 @@
 # fitpro-performance-dashboard
 Dashboard interativo de performance fitness desenvolvido com HTML, CSS e JavaScript.
-## Funcionalidades
 
+## Funcionalidades
 - Dashboard com indicadores de performance
 - Gráficos e visualização de dados
 - Cálculo de IMC
